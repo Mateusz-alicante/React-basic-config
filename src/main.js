@@ -3,13 +3,10 @@ import ReactDOM from 'react-dom'
 
 import Title from './components/Title.js'
 
+import "./styles/test.sass"
+
 console.log("Hello world")
 
-// const Template = (
-//     React.createElement('p', {}, "Some text")
-// )
-
-// ReactDOM.render(Template, document.getElementById('app'))
 
 const Template = () => (
     <div>
